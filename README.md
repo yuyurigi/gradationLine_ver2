@@ -19,3 +19,6 @@ delete, backspace : erase one vertex
 left click : add vertices  
 right click : finish the shape  
 click inside the circle : finish the shape (close shape)  
+
+![](https://github.com/yuyurigi/gradationLine_ver2/blob/main/スクリーンショット%202022-01-11%200.03.38.png)  
+![](https://github.com/yuyurigi/gradationLine_ver2/blob/main/スクリーンショット%202022-01-11%2022.19.54.png)
